@@ -1,11 +1,12 @@
 # Django Blog
 ---
 
-### Login:
-** Username** = NewUser3
-** Password** = DjangoTest01
+## Login:
++ Username  = NewUser3
++ Password  = DjangoTest01
 ---
 
+## Components
 * Bootstrap 4
 * User Registration
 * Login and Logout
